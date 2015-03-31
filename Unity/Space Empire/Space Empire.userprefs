@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\InstantGui\Scripts\InstantGuiStyle.cs">
+    <Files>
+      <File FileName="Assets\Script\Orbit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Properties.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SystemGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\PlanetNameGui.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GetRequest.cs" Line="1" Column="1" />
+      <File FileName="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" Line="8" Column="41" />
+      <File FileName="Assets\InstantGui\Scripts\InstantGuiStyle.cs" Line="205" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

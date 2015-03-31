@@ -1,0 +1,137 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp.dll
+-r:"C:\Program Files\Unity\Editor\Data\PlaybackEngines\wp8support/Tools/UnityEngine.dll"
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll"
+-r:"C:\Program Files\Unity\Editor\Data\PlaybackEngines\iossupport\UnityEditor.iOS.Extensions.Xcode.dll"
+-define:UNITY_5_0_0
+-define:UNITY_5_0
+-define:UNITY_5
+-define:ENABLE_LICENSE_RENAME
+-define:ENABLE_NEW_BUGREPORTER
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_4_6_FEATURES
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_FRAME_DEBUGGER
+-define:ENABLE_GENERICS
+-define:ENABLE_HOME_SCREEN
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_LIGHT_PROBES_LEGACY
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_NEW_HIERARCHY
+-define:ENABLE_PHYSICS
+-define:ENABLE_PHYSICS_PHYSX3
+-define:ENABLE_PLUGIN_INSPECTOR
+-define:ENABLE_SHADOWS
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_AUDIOMIXER_SUSPEND
+-define:ENABLE_NONPRO
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:INCLUDE_IL2CPP
+-define:RENDER_SOFTWARE_CURSOR
+-define:UNITY_WP8
+-define:UNITY_WP8_API
+-define:UNITY_WINRT
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_LAZY_METHOD_CACHING
+-define:ENABLE_MOVIES
+-define:ENABLE_PROFILER
+-define:UNITY_WINRT_8_0
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:CROSS_PLATFORM_INPUT
+-define:MOBILE_INPUT
+Assets/Assets/InstantGui/Demo/Glow/GameGUIFlotte.cs
+Assets/Assets/InstantGui/Demo/Glow/LVL.cs
+Assets/Assets/InstantGui/Scripts/Elements/InstantGuiButton.cs
+Assets/Assets/InstantGui/Scripts/Elements/InstantGuiElementsList.cs
+Assets/Assets/InstantGui/Scripts/Elements/InstantGuiGauge.cs
+Assets/Assets/InstantGui/Scripts/Elements/InstantGuiInputText.cs
+Assets/Assets/InstantGui/Scripts/Elements/InstantGuiList.cs
+Assets/Assets/InstantGui/Scripts/Elements/InstantGuiPopup.cs
+Assets/Assets/InstantGui/Scripts/Elements/InstantGuiSlider.cs
+Assets/Assets/InstantGui/Scripts/Elements/InstantGuiTabs.cs
+Assets/Assets/InstantGui/Scripts/Elements/InstantGuiTextArea.cs
+Assets/Assets/InstantGui/Scripts/Elements/InstantGuiToggle.cs
+Assets/Assets/InstantGui/Scripts/Elements/InstantGuiWindow.cs
+Assets/Assets/InstantGui/Scripts/InstantGui.cs
+Assets/Assets/InstantGui/Scripts/InstantGuiElement.cs
+Assets/Assets/InstantGui/Scripts/InstantGuiFrame.cs
+Assets/Assets/InstantGui/Scripts/InstantGuiStyle.cs
+Assets/Assets/InstantGui/Scripts/InstantGuiStyleSet.cs
+"Assets/Assets/Standard Assets/2D/Scripts/Camera2DFollow.cs"
+"Assets/Assets/Standard Assets/2D/Scripts/CameraFollow.cs"
+"Assets/Assets/Standard Assets/2D/Scripts/Platformer2DUserControl.cs"
+"Assets/Assets/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs"
+"Assets/Assets/Standard Assets/2D/Scripts/Restarter.cs"
+"Assets/Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs"
+"Assets/Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs"
+"Assets/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs"
+"Assets/Assets/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs"
+"Assets/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs"
+"Assets/Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs"
+"Assets/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs"
+"Assets/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs"
+"Assets/Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs"
+"Assets/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs"
+"Assets/Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs"
+"Assets/Assets/Standard Assets/Utility/ActivateTrigger.cs"
+"Assets/Assets/Standard Assets/Utility/AutoMobileShaderSwitch.cs"
+"Assets/Assets/Standard Assets/Utility/AutoMoveAndRotate.cs"
+"Assets/Assets/Standard Assets/Utility/CameraRefocus.cs"
+"Assets/Assets/Standard Assets/Utility/CurveControlledBob.cs"
+"Assets/Assets/Standard Assets/Utility/DragRigidbody.cs"
+"Assets/Assets/Standard Assets/Utility/DynamicShadowSettings.cs"
+"Assets/Assets/Standard Assets/Utility/FOVKick.cs"
+"Assets/Assets/Standard Assets/Utility/FPSCounter.cs"
+"Assets/Assets/Standard Assets/Utility/FollowTarget.cs"
+"Assets/Assets/Standard Assets/Utility/ForcedReset.cs"
+"Assets/Assets/Standard Assets/Utility/LerpControlledBob.cs"
+"Assets/Assets/Standard Assets/Utility/ObjectResetter.cs"
+"Assets/Assets/Standard Assets/Utility/ParticleSystemDestroyer.cs"
+"Assets/Assets/Standard Assets/Utility/PlatformSpecificContent.cs"
+"Assets/Assets/Standard Assets/Utility/SimpleActivatorMenu.cs"
+"Assets/Assets/Standard Assets/Utility/SimpleMouseRotator.cs"
+"Assets/Assets/Standard Assets/Utility/SmoothFollow.cs"
+"Assets/Assets/Standard Assets/Utility/TimedObjectActivator.cs"
+"Assets/Assets/Standard Assets/Utility/TimedObjectDestructor.cs"
+"Assets/Assets/Standard Assets/Utility/WaypointCircuit.cs"
+"Assets/Assets/Standard Assets/Utility/WaypointProgressTracker.cs"
+Assets/InstantGui/Scripts/Elements/InstantGuiButton.cs
+Assets/InstantGui/Scripts/Elements/InstantGuiElementsList.cs
+Assets/InstantGui/Scripts/Elements/InstantGuiGauge.cs
+Assets/InstantGui/Scripts/Elements/InstantGuiInputText.cs
+Assets/InstantGui/Scripts/Elements/InstantGuiList.cs
+Assets/InstantGui/Scripts/Elements/InstantGuiPopup.cs
+Assets/InstantGui/Scripts/Elements/InstantGuiSlider.cs
+Assets/InstantGui/Scripts/Elements/InstantGuiTabs.cs
+Assets/InstantGui/Scripts/Elements/InstantGuiTextArea.cs
+Assets/InstantGui/Scripts/Elements/InstantGuiToggle.cs
+Assets/InstantGui/Scripts/Elements/InstantGuiWindow.cs
+Assets/InstantGui/Scripts/InstantGui.cs
+Assets/InstantGui/Scripts/InstantGuiElement.cs
+Assets/InstantGui/Scripts/InstantGuiFrame.cs
+Assets/InstantGui/Scripts/InstantGuiStyle.cs
+Assets/InstantGui/Scripts/InstantGuiStyleSet.cs
+Assets/Script/GetRequest.cs
+Assets/Script/LevelLoader.cs
+Assets/Script/Orbit.cs
+Assets/Script/PlanetNameGui.cs
+Assets/Script/PostRequest.cs
+Assets/Script/Properties.cs
+Assets/Script/SystemGenerator.cs
+-r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\System.Xml.Linq.dll"
